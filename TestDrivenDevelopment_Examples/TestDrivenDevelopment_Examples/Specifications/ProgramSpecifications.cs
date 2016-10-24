@@ -11,7 +11,7 @@ namespace MyLittlePrograms.TTD.Examples.Specifications
     {
 
         [Fact]
-        public void ShouldBehavior()
+        public void ShouldOutputFooBarString()
         {
             // GIVEN
 
