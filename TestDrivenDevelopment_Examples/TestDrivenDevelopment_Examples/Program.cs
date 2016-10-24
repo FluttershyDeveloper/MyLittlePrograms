@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestDrivenDevelopment_Examples
+namespace MyLittlePrograms.TDD.Examples
 {
     class Program
     {
